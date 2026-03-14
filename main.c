@@ -6,5 +6,6 @@ printf("Enter 2 numbers");
 scanf("%d\n%d",&a,&b);
 printf("Sum=",a+b);
 printf("Subtraction=",a-b);
+printf("Test firts");
 return 0;
 }
