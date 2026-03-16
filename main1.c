@@ -1,6 +1,5 @@
-#include<stdio.h>
-int main()
-{
-printf("Test1");
-return 0;
-}
+#ifndef __STATS_H__
+#define __STATS_H__
+int tich(int a,int b)
+	return a*b;
+#endif
