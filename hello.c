@@ -5,5 +5,6 @@ int main() {
 	for(int i=0;i<5;i++)
 	printf("%d",i);
 printf("Hi");
+
     return 0;
 }
